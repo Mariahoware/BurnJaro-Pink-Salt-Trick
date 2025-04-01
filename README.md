@@ -1,1 +1,1 @@
-# BurnJaro-Pink-Salt-Trick
+BurnJaro Pink Salt Trick
